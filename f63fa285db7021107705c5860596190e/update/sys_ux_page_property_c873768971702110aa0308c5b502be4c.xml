@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="jese">4073768954702110c36785d62d3ba04a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 10:30:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c873768971702110aa0308c5b502be4c</sys_id>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="jese" source="x_874102_jese">f63fa285db7021107705c5860596190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jese">f63fa285db7021107705c5860596190e</sys_scope>
+        <sys_update_name>sys_ux_page_property_c873768971702110aa0308c5b502be4c</sys_update_name>
+        <type>string</type>
+        <unique_name>x_874102_jese.4073768954702110c36785d62d3ba04a.root.ribbonConfigId</unique_name>
+        <value>4c7376896d702110c32749eaf1b22248</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c873768971702110aa0308c5b502be4c"/>
+</record_update>
