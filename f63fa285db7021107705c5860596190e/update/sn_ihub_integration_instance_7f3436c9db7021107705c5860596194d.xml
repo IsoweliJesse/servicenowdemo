@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>heee</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>deee</name>
+        <record_id>7f3436c9db7021107705c5860596194f</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 10:33:55</sys_created_on>
+        <sys_id>7f3436c9db7021107705c5860596194d</sys_id>
+        <sys_name>deee</sys_name>
+        <sys_package display_value="jese" source="x_874102_jese">f63fa285db7021107705c5860596190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jese">f63fa285db7021107705c5860596190e</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_7f3436c9db7021107705c5860596194d</sys_update_name>
+    </sn_ihub_integration_instance>
+</record_update>
