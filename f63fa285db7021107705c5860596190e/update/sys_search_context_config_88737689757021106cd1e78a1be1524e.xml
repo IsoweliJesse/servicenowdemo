@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>jese - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 10:30:24</sys_created_on>
+        <sys_id>88737689757021106cd1e78a1be1524e</sys_id>
+        <sys_name>jese - Workspace Search</sys_name>
+        <sys_package display_value="jese" source="x_874102_jese">f63fa285db7021107705c5860596190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jese">f63fa285db7021107705c5860596190e</sys_scope>
+        <sys_update_name>sys_search_context_config_88737689757021106cd1e78a1be1524e</sys_update_name>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=88737689757021106cd1e78a1be1524e"/>
+</record_update>

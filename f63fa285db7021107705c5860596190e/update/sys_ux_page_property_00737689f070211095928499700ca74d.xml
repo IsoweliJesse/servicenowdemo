@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="jese">4073768954702110c36785d62d3ba04a</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 10:30:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>00737689f070211095928499700ca74d</sys_id>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="jese" source="x_874102_jese">f63fa285db7021107705c5860596190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jese">f63fa285db7021107705c5860596190e</sys_scope>
+        <sys_update_name>sys_ux_page_property_00737689f070211095928499700ca74d</sys_update_name>
+        <type>string</type>
+        <unique_name>x_874102_jese.4073768954702110c36785d62d3ba04a.root.globalSearchDataConfigId</unique_name>
+        <value>88737689757021106cd1e78a1be1524e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=00737689f070211095928499700ca74d"/>
+</record_update>
